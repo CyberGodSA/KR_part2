@@ -13,6 +13,12 @@ namespace ConsoleApp1
             public string Name { get; set; }
             public int Age { get; set; }
 
+            public Person(string name, int age)
+            {
+                Name = name;
+                Age = age;
+            }
+
             public override string ToString()
             {
                 return Name + " : " + Age;
@@ -31,11 +37,11 @@ namespace ConsoleApp1
 
         static void Main(string[] args)
         {
-            Person A = new Person {Name = "Max", Age = 21};
-            Person B = new Person {Name = "Den", Age = 27};
-            Person C = new Person {Name = "Andrey", Age = 19};
-            Person D = new Person {Name = "Max", Age = 23};
-            Person E = new Person {Name = "Alex", Age = 21};
+            Person A = new Person("Max", 21);
+            Person B = new Person("Den",27);
+            Person C = new Person ("Andrey",  19);
+            Person D = new Person ( "Max", 23);
+            Person E = new Person ("Alex", 21);
 
             Person[] people = new Person[] {A, B, C, D, E};
 
