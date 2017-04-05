@@ -1,0 +1,5 @@
+C:\Users\Danil\RiderProjects\KR_part2\KR_part2\bin\Debug\KR_part2.exe
+C:\Users\Danil\RiderProjects\KR_part2\KR_part2\bin\Debug\KR_part2.pdb
+C:\Users\Danil\RiderProjects\KR_part2\KR_part2\obj\Debug\KR_part2.csprojResolveAssemblyReference.cache
+C:\Users\Danil\RiderProjects\KR_part2\KR_part2\obj\Debug\KR_part2.exe
+C:\Users\Danil\RiderProjects\KR_part2\KR_part2\obj\Debug\KR_part2.pdb
